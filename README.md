@@ -81,7 +81,7 @@ An interactive, 8-page Power BI dashboard analysing **660,679 UK road accident r
 
 **Avirag**
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/atmakumaryadav/)
+- LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/atmakumaryadav/)
 - GitHub: [Your GitHub Profile](YOUR_GITHUB_URL)
 
 ⭐ If you find this project useful, consider giving this repository a star!
