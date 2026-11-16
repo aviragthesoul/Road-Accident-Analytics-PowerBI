@@ -34,13 +34,21 @@ An interactive, 8-page Power BI dashboard analysing **660,679 UK road accident r
 ## 📈 Dashboard Pages
 
 1. **Overview:** KPIs, accident trends, vehicle types, and map
-2. **Accident Severity:** Fatal, serious, and slight accidents
-3. **Urban vs Rural:** Accident distribution and monthly trends
-4. **Road Conditions:** Weather, lighting, and road surface analysis
-5. **Measures Verification:** Validation of DAX calculations
-6. **Map Wise Analysis:** Accident locations using latitude and longitude
-7. **All KPIs:** Consolidated performance metrics
-8. **Key Insights:** Summary of important findings
+2. <p align="center"> <img src="Dashboard_main.png" alt="Overview page" width="100%"> </p>
+3. **Accident Severity:** Fatal, serious, and slight accidents
+4. <p align="center"> <img src="02_Accident_record.png" alt="Overview page" width="100%"> </p>
+5. **Urban vs Rural:** Accident distribution and monthly trends
+6. <p align="center"> <img src="03_Urban_Rural-record.png" alt="Overview page" width="100%"> </p>
+7. **Road Conditions:** Weather, lighting, and road surface analysis
+8. <p align="center"> <img src="04_Road_conditions.png" alt="Overview page" width="100%"> </p>
+9. **Measures Verification:** Validation of DAX calculations
+10. <p align="center"> <img src="05_All_measures_Verified.png" alt="Overview page" width="100%"> </p>
+11. **Map Wise Analysis:** Accident locations using latitude and longitude
+12. <p align="center"> <img src="06_Map_wise_Analysis.png" alt="Overview page" width="100%"> </p>
+13. **All KPIs:** Consolidated performance metrics
+14. <p align="center"> <img src="07_All_Kpis.png" alt="Overview page" width="100%"> </p>
+15. **Key Insights:** Summary of important findings
+16. <p align="center"> <img src="08_Insights.png" alt="Overview page" width="100%"> </p>
 
 ## 💡 Key Insights
 
